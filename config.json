@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1D106D",
+            "lang-select-color": "#222829",
+            "bg-light": "#1D106D",
+            "welcome-bonus-bg": "#cbc4f7",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#ffffff",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#4226df",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#D1F20C",
+            "yellow": "#4226df",
+            "yellow-button": "#D1F20C",
+            "button-text": "#ffffff",
+            "main-button-text": "#000000",
+            "border-color": "#efefdc",
+            "casino-cards": "#a89bf0",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#a89bf0",
+            "faq-label": "#a89bf0",
+            "bg-footer": "#1D106D",
+            "copyright": "#e7e7d5",
+            "starColor": "#D1F20C",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4083"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4084",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "BoyleSports Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4085",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "BoyleSports"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-gb-en-GB",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "GB",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "BoyleSports",
+                    "title": "BoyleSports — UK Online Casino | 100 Free Spins",
+                    "description": "Play at BoyleSports UK Casino with 5,000+ licensed games, Playtech live dealers & up to 100 Free Spins. UKGC-licensed operator. Join today!\n",
+                    "canonical": "casinoboylesports-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4086",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinoboylesports-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4087"
+                },
+                "hero": {
+                    "title": "UK's Premier Licensed Online Casino Platform",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4088",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4089",
+                    "mobileImageSizeModifier": -3,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in the UK? We hold a full UKGC licence and Gibraltar GRA approval, offering 5,000+ certified games, instant Visa Direct payouts, and 24\/7 English-speaking support. Here's why British players choose us:\n",
+                    "items": [
+                        "Licensed by UKGC & Gibraltar GRA with SSL 256-bit encryption on all transactions",
+                        "5,000+ games from 30+ providers: Playtech, Pragmatic Play, NetEnt & more",
+                        "130+ live dealer tables: blackjack, roulette, baccarat & game shows",
+                        "Up to 100 Free Spins welcome offer with just 20x wagering requirement",
+                        "Instant Visa Direct withdrawals processed within 2–12 hours, up to £50,000\/day",
+                        "Deposits from £5 via PayPal, Apple Pay, Skrill, Neteller, Boku & Monzo"
+                    ],
+                    "advantagesAfterText": "Join hundreds of thousands of UK players enjoying certified fair play under UKGC regulations. Our dedicated English-speaking support team is available 24\/7 to assist you every step of the way.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "BoyleSports App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4090",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "BoyleSports App",
+                    "mobileGooglePlayImageTitle": "BoyleSports App",
+                    "mobileIosImageTitle": "BoyleSports App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About BoyleSports Casino",
+                        "description1": "We are one of the UK's most established betting and gaming operators, serving British players for decades. Licensed by the UKGC and Gibraltar GRA, we offer 5,000+ certified games from 30+ leading providers across our fully mobile-optimised platform.\n",
+                        "items": [
+                            "Launched as a leading UK sports betting and gaming operator",
+                            "Expanded to 5,000+ casino games from 30+ certified providers",
+                            "Achieved UKGC & Gibraltar GRA dual licensing for UK players",
+                            "Introduced Playtech Live Casino with 130+ professional tables"
+                        ],
+                        "description2": "We operate under UKGC licence and Gibraltar GRA approval, with SSL 256-bit encryption protecting every transaction. All our games are independently certified for fair play and random outcomes, ensuring a transparent gaming environment for UK players.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4091",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep growing our game library with exclusive new titles for British players. Our responsible gambling tools — including deposit limits, self-exclusion and GamStop integration — make us the trusted choice. Join us and experience premium UK gaming today!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Casino Games Guide for UK Players",
+                        "description": "<h2>Complete Casino Games Guide for UK Players<\/h2>\n\n<p>At BoyleSports Casino, we are proud to offer British players one of the most comprehensive gaming portfolios available online, with over 5,000 certified titles spanning slots, table games, live dealer experiences, and interactive game shows. Our entire library is sourced from more than 30 world-class software providers — including Playtech, Pragmatic Play, NetEnt, Microgaming, and Evolution Gaming — ensuring every game delivered to UK players meets the highest standards of fairness, entertainment, and security. Whether you prefer spinning the reels on a progressive jackpot slot or challenging a live dealer at a high-stakes blackjack table, we have the right game waiting for you.<\/p>\n\n<h3>Slots: The UK's Favourite Casino Games<\/h3>\n\n<p>Our slots collection is the beating heart of BoyleSports Casino, featuring thousands of titles across every theme, volatility level, and mechanic imaginable. From classic fruit machines beloved by traditional British gamblers to modern video slots with cascading reels, Megaways engines, and multipliers reaching into the tens of thousands, there is something for every UK player. Providers such as Pragmatic Play, Blueprint Gaming, Big Time Gaming, and Relax Gaming contribute regularly to our expanding catalogue, meaning new titles arrive weekly. Our most popular slots for UK audiences include Big Bass Bonanza™, Book of the Fallen™, Snakes and Ladders Megadice™, and Gates of Olympus — all available from as little as £0.10 per spin. Progressive jackpot games such as Age of the Gods series by Playtech regularly award six and seven-figure prizes to lucky British players.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Slots:<\/strong> Traditional 3-reel and 5-reel formats with familiar fruit symbols, BARs, and sevens, offering straightforward gameplay with RTP values typically between 95% and 97%.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Slots:<\/strong> Dynamic reel mechanics from Big Time Gaming delivering up to 117,649 ways to win per spin, with titles like Bonanza Megaways and Extra Chilli Megaways leading the pack.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Jackpot Slots:<\/strong> Playtech's Age of the Gods network and Pragmatic Play's Mega Jackpots series, with community jackpots that grow across all UK players in real time.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Branded Slots:<\/strong> Licensed titles based on popular culture including major film and TV franchises, adding an extra layer of entertainment for British audiences.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Buy Bonus Slots:<\/strong> Skip directly to the bonus round on eligible titles by purchasing the feature, allowing UK players to access free spins rounds immediately.<\/li>\n<\/ul>\n\n<h3>Table Games: Strategy and Skill for British Players<\/h3>\n\n<p>For UK players who prefer skill-based casino gaming, our table games section delivers an impressive array of variants across roulette, blackjack, baccarat, poker, and more. We understand that British gamblers have strong preferences — European Roulette with its single-zero wheel and favourable 97.3% RTP is among our most played titles. Our blackjack selection includes Classic Blackjack, Pontoon (the traditional British variant), and Perfect Pairs, all from certified providers with independently verified RTPs. Additionally, our virtual table games run on certified Random Number Generator (RNG) software, tested by independent auditors to guarantee fair and unpredictable outcomes on every hand dealt to UK players.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>European Roulette (RTP 97.3%):<\/strong> Single-zero wheel with standard inside and outside bets, offering the best odds for UK roulette players compared to the American variant.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Blackjack (RTP 99.5%):<\/strong> Standard 6-deck game with double down, split, and insurance options, ideal for UK players applying basic strategy to minimise the house edge.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Baccarat:<\/strong> Available in standard Punto Banco format with mini-baccarat tables offering lower minimums, perfect for UK players new to the game.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Casino Poker:<\/strong> Three Card Poker, Caribbean Stud, and Casino Hold'em available in RNG format with progressive jackpot side bets and competitive payouts.<\/li>\n<\/ul>\n\n<h3>Live Casino: Authentic British Casino Experience Online<\/h3>\n\n<p>Our live casino section — powered predominantly by Playtech Live — is where the authentic casino experience comes to life for UK players. With over 130 professionally streamed tables available, you can sit at a real blackjack table, spin a physical roulette wheel, or join a high-energy game show, all from the comfort of your home anywhere in the United Kingdom. All streams are broadcast in full HD with multiple camera angles and real-time chat functionality, creating a genuinely social gaming atmosphere. BoyleSports Casino also features its own dedicated branded tables exclusively for our UK members, adding a personalised touch to the live casino lobby.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette (34 tables):<\/strong> Including European Roulette, Speed Roulette, Quantum Roulette, Cash Collect Roulette, and Sticky Bandits Roulette, with table limits ranging from £0.50 to £5,000 per spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack (41 tables):<\/strong> Unlimited Blackjack, Royale Cashback Blackjack, Mega Fire Blaze Blackjack, and dedicated BoyleSports-branded tables with English-speaking dealers catering specifically to British players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat & Sic Bo (27 tables):<\/strong> Squeeze Baccarat, Speed Baccarat, and multiple Sic Bo variants with real dice and authentic gameplay streamed in HD.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker (6 tables):<\/strong> Casino Hold'em, Casino Stud Poker, Three Card Poker, and Teen Patti — a diverse poker offering for UK players of every experience level.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Game Shows (27 options):<\/strong> Adventures Beyond Wonderland, Jumanji: The Bonus Level, Football Card Showdown, and Deal or No Deal Live, blending entertainment and real-money prizes for a uniquely British live gaming experience.<\/li>\n<\/ul>\n\n<h3>RTP Comparison: Top Games at BoyleSports UK Casino<\/h3>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #e4f000;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">RTP<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #191261;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>European Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Live\/RNG<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">97.30%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #21197a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Classic Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Live\/RNG<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">99.50%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191261;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Live\/RNG<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">98.94%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #21197a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Big Bass Bonanza<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Slot<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.71%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191261;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Gates of Olympus<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Slot<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.50%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #21197a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Age of the Gods<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Jackpot Slot<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">95.02%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191261;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Casino Hold'em<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Live Poker<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">97.84%<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Mobile Gaming: Play Anywhere Across the UK<\/h3>\n\n<p>We have built our entire casino experience to be fully optimised for mobile devices, ensuring UK players can enjoy every single one of our 5,000+ games seamlessly on smartphones and tablets. Our dedicated BoyleSports Casino app is available for both iOS and Android, offering the complete game library — slots, live dealer tables, virtual table games, and game shows — all accessible with a single tap. The app loads instantly on 4G and 5G connections, with touch-optimised controls and portrait or landscape orientation support. British players can also manage their accounts, claim bonuses, make deposits and withdrawals, and contact our 24\/7 support team directly from within the mobile app, making BoyleSports Casino a genuinely complete gaming destination in your pocket.<\/p>\n\n<h3>Responsible Gambling Tools for UK Players<\/h3>\n\n<p>As a fully UKGC-licensed operator, responsible gambling is central to everything we do at BoyleSports Casino. We provide British players with a comprehensive suite of self-management tools designed to keep gaming fun, safe, and within personal limits. These include deposit limits, session time reminders, reality checks, cooling-off periods, and full self-exclusion options — all accessible directly from your account settings at any time. We are also fully integrated with GamStop, the UK's national self-exclusion scheme, ensuring that British players who register with GamStop are automatically excluded from all our gaming products. Furthermore, our customer support team is specially trained in responsible gambling awareness and can signpost UK players to organisations such as GamCare, BeGambleAware, and Gambling Therapy for professional assistance.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit Limits:<\/strong> Set daily, weekly, or monthly deposit caps to control your spending, adjustable instantly via account settings with a 24-hour cooldown on increases.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Session Time Limits:<\/strong> Receive automatic reminders at custom intervals during your gaming session, helping UK players stay aware of time spent on the platform.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Self-Exclusion:<\/strong> Exclude yourself for periods of 6 months, 1 year, 5 years, or permanently — all requests are processed immediately and upheld across our entire UK platform.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>GamStop Integration:<\/strong> Fully registered with the UK's national self-exclusion scheme, ensuring cross-platform protection for British players seeking additional support.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Reality Checks:<\/strong> Customisable on-screen pop-ups showing session duration and net wins or losses, keeping transparency at the forefront of every UK gaming session.<\/li>\n<\/ul>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking & Bonuses for UK Casino Players",
+                        "description": "<h2>Banking & Bonuses for UK Casino Players<\/h2>\n\n<p>At BoyleSports Casino, we understand that fast, secure, and convenient banking is just as important as the games themselves for UK players. That is why we support over 10 trusted payment methods, all denominated in GBP, with no conversion fees and no hidden charges on deposits or withdrawals. From instant debit card transactions to e-wallet payments processed within hours, our banking infrastructure is specifically designed for the needs of British gamblers. All financial transactions are protected by SSL 256-bit encryption, compliant with PCI-DSS standards, and processed under the strict oversight of the United Kingdom Gambling Commission — giving UK players complete peace of mind every time they fund or withdraw from their casino account.<\/p>\n\n<h3>How Do I Deposit at BoyleSports UK Casino?<\/h3>\n\n<p>Depositing at BoyleSports Casino is straightforward and instant for all UK players. Simply log in to your verified account, navigate to the cashier section, and choose from our wide range of GBP-denominated payment methods. The minimum deposit is just £5, making our platform accessible to British players of every budget level. All deposits are credited to your casino balance instantly, meaning you can start spinning or joining a live dealer table within seconds. We do not charge any processing fees on deposits, and all our payment partners are authorised and regulated in the United Kingdom, ensuring the highest levels of consumer protection for British gamblers.<\/p>\n\n<h3>Payment Methods Available for UK Players<\/h3>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #e4f000;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Speed<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #191261;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Visa Debit<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #21197a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Visa Direct<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">2–12 hrs<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191261;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>PayPal<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #21197a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191261;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #21197a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Apple Pay<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191261;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Google Pay<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #21197a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Paysafecard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191261;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Boku<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #21197a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Monzo<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Withdrawals: How Fast Can UK Players Cash Out?<\/h3>\n\n<p>We are committed to processing withdrawal requests for UK players as quickly as possible. For the fastest cashouts, we recommend Visa Direct, which processes within 2–12 hours directly to your UK bank account — one of the fastest withdrawal speeds available among UK online casinos. Standard Visa Debit withdrawals take 2–3 working days, while e-wallet withdrawals via PayPal, Skrill, and Neteller are also processed rapidly. The maximum daily withdrawal limit is £50,000, catering to both casual and high-stakes UK players. Before your first withdrawal, you will need to complete our standard Know Your Customer (KYC) verification process, submitting valid UK identification documents and proof of address — a UKGC requirement designed to protect all British players against fraud and money laundering.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa Direct:<\/strong> The fastest withdrawal method for UK players — funds arrive in your British bank account within 2–12 hours of request approval, seven days a week.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>PayPal UK:<\/strong> Withdraw directly to your UK PayPal balance with no conversion fees, ideal for British players who use PayPal for everyday online transactions.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Skrill & Neteller:<\/strong> Professional e-wallet withdrawals favoured by experienced UK casino players for their speed, privacy, and account management features.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa Debit:<\/strong> Standard bank card withdrawals returning funds directly to your UK debit card within 2–3 working days, available with all major British banks.<\/li>\n<\/ul>\n\n<h3>Welcome Offer: Up to 100 Free Spins for New UK Players<\/h3>\n\n<p>New UK members at BoyleSports Casino can claim up to 100 Free Spins as part of our welcome offer. To activate the promotion, simply opt in via the Promotions page after registration, then stake £20 on eligible casino games on the same calendar day. Your free spins will be credited the following day and must be used within 72 hours. The free spins are playable on selected hit titles including Big Bass Bonanza™, Book of the Fallen™, and Snakes and Ladders Megadice™. Winnings from free spins carry a 20x wagering requirement, which is notably lower than the UK industry average of 35x, making it one of the more player-friendly welcome offers available to British gamblers today.<\/p>\n\n<h3>Ongoing Promotions and Prize Pools for UK Players<\/h3>\n\n<p>Beyond the welcome offer, BoyleSports Casino runs a rich calendar of ongoing promotions designed to reward our active UK player community. Our weekly 50K Giveaway distributes £50,000 in cash, free bets, and free spins every week to qualifying British players — simply opt in, deposit, and stake at least £10 to enter the draw. The Drops & Wins programme, featuring a monthly prize pool exceeding £490,000, randomly rewards eligible UK players with fixed cash prizes while they play qualifying slots with a minimum bet of £0.15. Additionally, our Casino Leaderboards and Missions system runs weekly competitive events where UK players earn points by playing selected games, redeeming them for free spins, bonus cash, or tournament entries.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>50K Weekly Giveaway:<\/strong> Opt in and stake £10 on eligible games to enter a weekly draw for a share of £50,000 in cash, free bets, free spins, and Golden Chips exclusive to UK players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Drops & Wins (£490,000+ monthly):<\/strong> Random prize drops during qualifying slot sessions — stake at least £0.15 per spin and win up to two fixed cash prizes per week.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Casino Leaderboards:<\/strong> Compete against other UK players in weekly skill-based rankings, with prizes including free spins, bonus cash, and exclusive tournament invitations.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Casino Missions:<\/strong> Complete weekly slot challenges from Tuesday to Sunday to unlock up to 65 free spins or bonus funds — ideal for dedicated British casino enthusiasts.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Get £50 Bonus When You Bet £10:<\/strong> A sports-to-casino crossover promotion giving UK members bonus funds for qualifying sportsbook activity, with a 10x wagering requirement and £150 max win.<\/li>\n<\/ul>\n\n<h3>Why BoyleSports Casino is the Trusted Choice for UK Players<\/h3>\n\n<p>As a UKGC and Gibraltar GRA dual-licensed operator, we meet the most stringent regulatory requirements in the world when it comes to protecting British players. Our platform has been serving the UK gambling market for decades, building a reputation for reliability, fairness, and transparency that sets us apart from newer offshore competitors. Every deposit and withdrawal is processed under PCI-DSS security standards, all games are independently certified for RNG fairness, and our responsible gambling tools are fully compliant with UKGC's latest player protection framework. With 24\/7 customer support in English, a comprehensive FAQ section, and a dedicated complaints resolution process, we ensure that every UK player has a safe, enjoyable, and fully supported gaming experience from the moment they join BoyleSports Casino.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is BoyleSports Casino licensed and safe for UK players?",
+                            "answer": "Yes, we are fully licensed by the United Kingdom Gambling Commission (UKGC) and Gibraltar Regulatory Authority (GRA). All games are independently certified for fair play using RNG technology. SSL 256-bit encryption protects every transaction, and we are GamStop-registered for full UK player safety.\n"
+                        },
+                        {
+                            "title": "How do I claim my free spins welcome offer?",
+                            "answer": "Register your account, then visit the Promotions page and opt in to the free spins offer. Stake £20 on eligible casino games on the same day to qualify. Up to 100 Free Spins are credited the next day with 72 hours to use them. A 20x wagering requirement applies to any winnings from the spins.\n"
+                        },
+                        {
+                            "title": "What payment methods do you accept for UK players?",
+                            "answer": "We accept 10+ GBP payment methods for UK players: Visa Debit, Visa Direct, PayPal, Skrill, Neteller, Apple Pay, Google Pay, Paysafecard, Boku, and Monzo. All deposits start from just £5 with no fees. Credit cards are not accepted in line with UKGC responsible gambling guidelines.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take to my UK bank account?",
+                            "answer": "The fastest option is Visa Direct, delivering funds to your UK bank account within 2–12 hours. Standard Visa Debit withdrawals take 2–3 working days. E-wallets like PayPal, Skrill, and Neteller are also processed quickly. The maximum daily withdrawal limit is £50,000 for all UK players.\n"
+                        },
+                        {
+                            "title": "How many casino games are available at BoyleSports?",
+                            "answer": "We offer over 5,000 casino games from 30+ world-class providers including Playtech, Pragmatic Play, NetEnt, and Evolution Gaming. The library covers slots, table games, live dealer games, game shows, crash games, scratch cards, bingo, and Slingo — all accessible on mobile and desktop for UK players.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile phone?",
+                            "answer": "Yes, our full live casino is available on mobile via the BoyleSports app for iOS and Android, or via any mobile browser. All 130+ live tables — including blackjack, roulette, baccarat, poker, and game shows — stream in HD on mobile. Download the free app from the App Store or Google Play today.\n"
+                        },
+                        {
+                            "title": "What responsible gambling tools do you offer UK players?",
+                            "answer": "We offer a full suite of UKGC-compliant responsible gambling tools: deposit limits, session time reminders, reality checks, cooling-off periods, and self-exclusion for 6 months up to permanently. We are also fully integrated with GamStop, the UK national self-exclusion scheme, for complete protection.\n"
+                        },
+                        {
+                            "title": "What is the minimum deposit at BoyleSports Casino?",
+                            "answer": "The minimum deposit at BoyleSports Casino is just £5, making it accessible to all UK players regardless of budget. You can deposit using Visa, PayPal, Apple Pay, Skrill, Neteller, Boku, Monzo, Google Pay, and more. All deposits are credited instantly and protected by SSL 256-bit encryption.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
